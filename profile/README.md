@@ -1,12 +1,57 @@
-## Hi there 👋
 
-<!--
+# 옥천한입
+> KAIST 테크포임팩트 풀뿌리파뿌리 팀
 
-**Here are some ideas to get you started:**
+### A. 개발 팀원
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- 양혜원
+- [박상우](https://github.com/Unknown-Box)
+- 장주하
+- [엄창용](https://github.com/Changyong-Eom)
+
+### B. 개발 환경
+
+- OS: 
+- Framework : 
+- Target : Android & IOS
+- Language: 
+- Database : 
+---
+
+### C. 어플리케이션 소개
+
+### 1. 로그인 화면
+
+|  |  |
+| - | - |
+
+#### Major features
+
+- 
+
+### 2. 정책 사례 탭
+
+|  |  |
+| - | - |
+
+#### Major features
+
+- 
+
+### 3. 정책 제안 탭
+
+|  |  |
+| - | - |
+
+#### Major features
+
+- 
+
+### 4. 마이페이지 탭
+
+|  |  |
+| - | - |
+
+#### Major features
+
+-
