@@ -4,10 +4,10 @@
 
 ### A. 개발 팀원
 
-- 양혜원
-- [박상우](https://github.com/Unknown-Box)
-- 장주하
-- [엄창용](https://github.com/Changyong-Eom)
+- UI/UX: 양혜원<sup>팀장</sup>
+- FE: [엄창용](https://github.com/Changyong-Eom)
+- BE: [박상우](https://github.com/Unknown-Box)
+- 리서치: 장주하
 
 ### B. 개발 환경
 
@@ -20,38 +20,29 @@
 
 ### C. 어플리케이션 소개
 
-### 1. 로그인 화면
+### 1. 정책 사례 탭
 
 |  |  |
 | - | - |
 
-#### Major features
+#### 주요 기능
 
 - 
 
-### 2. 정책 사례 탭
+### 2. 정책 제안 탭
 
 |  |  |
 | - | - |
 
-#### Major features
+#### 주요 기능
 
 - 
 
-### 3. 정책 제안 탭
+### 3. 마이페이지 탭
 
 |  |  |
 | - | - |
 
-#### Major features
-
-- 
-
-### 4. 마이페이지 탭
-
-|  |  |
-| - | - |
-
-#### Major features
+#### 주요 기능
 
 -
