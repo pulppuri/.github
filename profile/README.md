@@ -6,7 +6,7 @@
 - UI/UX: 양혜원<sup>팀장</sup>
 - FE: [엄창용](https://github.com/Changyong-Eom)
 - BE: [박상우](https://github.com/Unknown-Box)
-- 리서치: 장주하
+- 리서치: [장주하](https://github.com/Gabriel-Jang))
 
 ### B. 개발 환경
 
