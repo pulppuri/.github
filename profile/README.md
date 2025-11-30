@@ -3,7 +3,7 @@
 
 ### A. 개발 팀원
 
-- UI/UX: 양혜원<sup>팀장</sup>
+- UI/UX: [양혜원<sup>팀장</sup>](https://github.com/HyeeYang)
 - FE: [엄창용](https://github.com/Changyong-Eom)
 - BE: [박상우](https://github.com/Unknown-Box)
 - 리서치: [장주하](https://github.com/Gabriel-Jang)
