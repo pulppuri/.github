@@ -11,9 +11,9 @@
 ### B. 개발 환경
 
 - OS: 
-- Framework : 
+- Framework : v0
 - Target : Android & IOS
-- Language: 
+- Language: TypeScript
 - Database : 
 ---
 
