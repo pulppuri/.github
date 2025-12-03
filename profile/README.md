@@ -35,11 +35,11 @@
 <table>
   <tr>
     <td align="center">
-      <img width="240" src="" alt="정책 사례 목록 화면" /><br/>
+      <img width="240" src="https://github.com/user-attachments/assets/8943927d-546a-4a33-ba7b-533a2cf504dd" alt="정책 사례 목록 화면" /><br/>
       <sub>① 정책 사례 목록 화면</sub>
     </td>
     <td align="center">
-      <img width="240" src="https://github.com/user-attachments/assets/a09878a0-93e5-4ecb-ad07-981ac30f17a1" alt="정책 사례 상세 화면" /><br/>
+      <img width="240" src="https://github.com/user-attachments/assets/6f7e32eb-4d5f-44bc-a429-84490cddd0ef" alt="정책 사례 상세 화면" /><br/>
       <sub>② 정책 사례 상세 화면</sub>
     </td>
   </tr>
