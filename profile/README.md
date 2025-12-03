@@ -10,20 +10,32 @@
 
 ### B. 개발 환경
 
-- Framework : v0
-- Target : Android & IOS
-- Language: TypeScript
-- Database : 
+- Framework : Next.js(v0) / FastAPI
+- Target : Android & iOS
+- Language : TypeScript(React) / Python
+- Database : TBD
 ---
 
 ### C. 어플리케이션 소개  
+
+### 0. 온보딩
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/f05d345f-07f3-4524-9146-c0647ecd06a2" width="240" alt="온보딩 페이지" /><br/>
+      <sub>① 온보딩 화면</sub>
+    </td>
+  </tr>
+</table>
+
 
 ### 1. 정책 사례 탭
 
 <table>
   <tr>
     <td align="center">
-      <img width="240" src="https://github.com/user-attachments/assets/1c5997b8-cbc0-4154-a03e-76d4b5c513da" alt="정책 사례 목록 화면" /><br/>
+      <img width="240" src="" alt="정책 사례 목록 화면" /><br/>
       <sub>① 정책 사례 목록 화면</sub>
     </td>
     <td align="center">
@@ -96,3 +108,59 @@
 #### 주요 기능
 
 -
+
+
+<details>
+  <summary>📸 Screenshots</summary>
+  <br/>
+
+  <table>
+    <tr>
+      <td align="center">
+        <b>1) 카테고리 리스트(상단)</b><br/>
+        <img src="https://github.com/user-attachments/assets/04351bb9-f0e0-456b-a524-ba7cac11b1ae" width="250" alt="카테고리 리스트 상단" />
+      </td>
+      <td align="center">
+        <b>2) 카테고리 리스트(하단)</b><br/>
+        <img src="https://github.com/user-attachments/assets/768452c4-8450-4d94-bddd-d195a4eed0cd" width="250" alt="카테고리 리스트 하단" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <b>3) 카테고리 선택(예: 시험 선택됨)</b><br/>
+        <img src="https://github.com/user-attachments/assets/57af642e-f3f9-4989-b2b7-600ba33fb945" width="250" alt="카테고리 선택 상태" />
+      </td>
+      <td align="center">
+        <b>4) 카테고리 상세 진입(시험 상세 리스트 1)</b><br/>
+        <img src="https://github.com/user-attachments/assets/91eae362-f8d7-4b11-b2be-9ec9dc40932e" width="250" alt="시험 상세 1" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <b>5) 시험 상세 리스트 2</b><br/>
+        <img src="https://github.com/user-attachments/assets/e270de60-388c-4dd9-99c6-8890756d764a" width="250" alt="시험 상세 2" />
+      </td>
+      <td align="center">
+        <b>6) 시험 상세 리스트 3</b><br/>
+        <img src="https://github.com/user-attachments/assets/a525b2b2-42a2-4261-90da-056b62307c6b" width="250" alt="시험 상세 3" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <b>7) 전체 선택 결과(10/10)</b><br/>
+        <img src="https://github.com/user-attachments/assets/239f9936-c99a-4343-83e4-42610e482a9d" width="250" alt="전체 선택" />
+      </td>
+      <td align="center">
+        <b>8) 일부 선택 결과(1/10) - 상태 1</b><br/>
+        <img src="https://github.com/user-attachments/assets/7994b7c5-51a3-4e83-9a9e-570d8d7c203b" width="250" alt="일부 선택 1" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <b>9) 일부 선택 결과(1/10) - 상태 2</b><br/>
+        <img src="https://github.com/user-attachments/assets/842d5f0a-1b11-48fa-8011-b0e304b890df" width="250" alt="일부 선택 2" />
+      </td>
+      <td></td>
+    </tr>
+  </table>
+</details>
